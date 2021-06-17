@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KromeThirty
+- 👋 Hi, I’m Teddy Marc Castillo Enaje
 - 👀 I’m interested in Mobile Development/Full Stack Web Development
 - 🌱 I’m currently learning Flutter & Dart
 - 💞️ I’m looking to collaborate on ...
